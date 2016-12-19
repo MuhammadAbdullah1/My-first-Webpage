@@ -1,0 +1,30 @@
+.jumbotron{
+  background-image: url('http://everystockphoto.s3.amazonaws.com/sunset_earthday_iceplant_677600_o.jpg');
+  background-attachment: fixed;
+  min-height: 1000px;
+  margin-bottom: 0px;
+  text-align: center;
+  color: white;
+}
+#AboutMe{
+  background-image: url('http://s3.amazonaws.com/estock/fspid11/98/49/33/nimes-arena-romanempire-984933-o.jpg');
+  background-attachment: fixed;
+  min-height: 930px;
+  margin-bottom: 0px;
+}
+#Projects{
+  background-image: url('http://s3.amazonaws.com/estock/fspid2/291400/building-saarland-germany-291499-o.jpg');
+  background-attachment: fixed;
+  min-height: 930px;
+  margin-bottom: 0px;
+}
+#ContactMe{
+  background-image: url('http://s3.amazonaws.com/estock_dev/fspid13/48/26/88/ginza-handheld-hdri-482688-o.jpg');
+  background-attachment: fixed;
+  min-height: 930px;
+  margin-bottom: 0px;
+}
+#mainnav{
+  color: white;
+}
+/*http://www.everystockphoto.com/photo.php?imageId=677600&searchId=6cad826248cd3f4e93da71e7b49928e3&npos=11*/
