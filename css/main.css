@@ -1,7 +1,7 @@
-.jumbotron{
+#Home{
   background-image: url('http://everystockphoto.s3.amazonaws.com/sunset_earthday_iceplant_677600_o.jpg');
   background-attachment: fixed;
-  min-height: 1000px;
+  min-height: 800px;
   margin-bottom: 0px;
   text-align: center;
   color: white;
@@ -11,20 +11,38 @@
   background-attachment: fixed;
   min-height: 930px;
   margin-bottom: 0px;
+  color: white;
 }
 #Projects{
   background-image: url('http://s3.amazonaws.com/estock/fspid2/291400/building-saarland-germany-291499-o.jpg');
   background-attachment: fixed;
   min-height: 930px;
   margin-bottom: 0px;
+  text-align: center;
+  color: white;
 }
 #ContactMe{
   background-image: url('http://s3.amazonaws.com/estock_dev/fspid13/48/26/88/ginza-handheld-hdri-482688-o.jpg');
   background-attachment: fixed;
   min-height: 930px;
   margin-bottom: 0px;
+  text-align: center;
+  color: white;
 }
 #mainnav{
+  color: white;
+}
+.navbar-nav{
+  width:100%;
+  text-align: center;
+}
+.navbar-nav > li{
+  opacity: 1.0;
+  font-size: 22px;
+  float: none;
+  display: inline-block;
+}
+.navbar-fnt{
   color: white;
 }
 /*http://www.everystockphoto.com/photo.php?imageId=677600&searchId=6cad826248cd3f4e93da71e7b49928e3&npos=11*/
