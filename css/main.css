@@ -1,29 +1,41 @@
 #Home{
-  background-image: url('http://everystockphoto.s3.amazonaws.com/sunset_earthday_iceplant_677600_o.jpg');
+
+  background-image: url('https://static.pexels.com/photos/176851/pexels-photo-176851.jpeg');
   background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
   min-height: 1000px;
   margin-bottom: 0px;
   text-align: center;
   color: white;
 }
 #AboutMe{
-  background-image: url('http://s3.amazonaws.com/estock/fspid11/98/49/33/nimes-arena-romanempire-984933-o.jpg');
+  /*background-image: url('http://s3.amazonaws.com/estock/fspid11/98/49/33/nimes-arena-romanempire-984933-o.jpg');*/
+  background-color: white;
   background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
   min-height: 950px;
   margin-bottom: 0px;
   color: white;
 }
 #Projects{
-  background-image: url('http://s3.amazonaws.com/estock/fspid2/291400/building-saarland-germany-291499-o.jpg');
+  /*background-image: url('http://s3.amazonaws.com/estock/fspid2/291400/building-saarland-germany-291499-o.jpg');*/
+  background-color: black;
   background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
   min-height: 950px;
   margin-bottom: 0px;
   text-align: center;
   color: white;
 }
 #ContactMe{
-  background-image: url('http://s3.amazonaws.com/estock/fspid5/406700/deutschland-germany-europe-406771-o.jpg');
+  /*background-image: url('http://s3.amazonaws.com/estock/fspid5/406700/deutschland-germany-europe-406771-o.jpg');*/
+  background-color: white;
   background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
   min-height: 950px;
   margin-bottom: 0px;
   text-align: center;
