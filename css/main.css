@@ -10,7 +10,7 @@
   color: white;
 }
 #AboutMe{
-  /*background-image: url('http://s3.amazonaws.com/estock/fspid11/98/49/33/nimes-arena-romanempire-984933-o.jpg');*/
+  background-image: url('https://static.pexels.com/photos/30732/pexels-photo-30732.jpg');
   background-color: white;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -20,8 +20,7 @@
   color: white;
 }
 #Projects{
-  /*background-image: url('http://s3.amazonaws.com/estock/fspid2/291400/building-saarland-germany-291499-o.jpg');*/
-  background-color: black;
+  background-image: url('https://static.pexels.com/photos/90807/pexels-photo-90807.jpeg');
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -31,14 +30,12 @@
   color: white;
 }
 #ContactMe{
-  /*background-image: url('http://s3.amazonaws.com/estock/fspid5/406700/deutschland-germany-europe-406771-o.jpg');*/
-  background-color: white;
+  background-image: url('https://static.pexels.com/photos/230872/pexels-photo-230872.jpeg');
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 950px;
+  min-height: 650px;
   margin-bottom: 0px;
-  text-align: center;
   color: white;
 }
 .navbar{
@@ -60,4 +57,5 @@
 .navbar-default .navbar-nav >li >a{
   color: #fff;
 }
+
 /*http://www.everystockphoto.com/photo.php?imageId=677600&searchId=6cad826248cd3f4e93da71e7b49928e3&npos=11*/
