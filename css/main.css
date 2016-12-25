@@ -5,7 +5,7 @@
   text-align: center;
 
   color: white;
-  background-image: url('https://static.pexels.com/photos/35098/pexels-photo.jpg');
+  background-image: url('../images/pexels-photo.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -21,8 +21,7 @@
   margin-bottom: 0px;
 
   color: white;
-  background-color: white;
-  background-image: url('https://static.pexels.com/photos/30732/pexels-photo-30732.jpg');
+  background-image: url('../images/AboutMe.jpeg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -32,8 +31,9 @@
   margin-bottom: 0px;
 
   text-align: center;
+
   color: white;
-  background-image: url('https://static.pexels.com/photos/159356/keyboard-type-computer-internet-159356.jpeg');
+  background-image: url('../images/Projects.jpeg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -43,7 +43,7 @@
   margin-bottom: 0px;
 
   color: white;
-  background-image: url('https://static.pexels.com/photos/230872/pexels-photo-230872.jpeg');
+  background-image: url('../images/pexels-photo-230872.jpeg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
