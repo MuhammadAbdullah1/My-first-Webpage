@@ -1,61 +1,84 @@
 #Home{
-
-  background-image: url('https://static.pexels.com/photos/176851/pexels-photo-176851.jpeg');
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-size: cover;
   min-height: 1000px;
   margin-bottom: 0px;
+
   text-align: center;
-  color: white;
+
+  color: white;
+  background-image: url('https://static.pexels.com/photos/35098/pexels-photo.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.jumbotron > .container > h1{
+  font-size: 70px;
+}
+.nav > li > a{
+  font-size: 30px;
 }
 #AboutMe{
-  background-image: url('https://static.pexels.com/photos/30732/pexels-photo-30732.jpg');
-  background-color: white;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-size: cover;
   min-height: 950px;
   margin-bottom: 0px;
+
   color: white;
+  background-color: white;
+  background-image: url('https://static.pexels.com/photos/30732/pexels-photo-30732.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 #Projects{
-  background-image: url('https://static.pexels.com/photos/90807/pexels-photo-90807.jpeg');
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-size: cover;
   min-height: 950px;
   margin-bottom: 0px;
+
   text-align: center;
-  color: white;
+  color: white;
+  background-image: url('https://static.pexels.com/photos/159356/keyboard-type-computer-internet-159356.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 #ContactMe{
-  background-image: url('https://static.pexels.com/photos/230872/pexels-photo-230872.jpeg');
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-size: cover;
-  min-height: 650px;
+  min-height: 920px;
   margin-bottom: 0px;
-  color: white;
+
+  color: white;
+  background-image: url('https://static.pexels.com/photos/230872/pexels-photo-230872.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 .navbar{
-  background-color: transparent;
-  background: transparent;
   border-color: transparent;
+  background: transparent;
+  background-color: transparent;
   box-shadow: none;
 }
 .navbar-nav{
   width:100%;
+
   text-align: center;
 }
 .navbar-nav > li{
-  opacity: 1.0;
-  font-size: 22px;
-  float: none;
   display: inline-block;
+  float: none;
+
+  opacity: 1.0;
+  color: white;
+
+  font-size: 22px;
 }
 .navbar-default .navbar-nav >li >a{
   color: #fff;
 }
+.navbar-default .navbar-nav >li >a:hover{
+  color: #fff;
 
-/*http://www.everystockphoto.com/photo.php?imageId=677600&searchId=6cad826248cd3f4e93da71e7b49928e3&npos=11*/
+  font-size: 34px;
+  /*
+  text-decoration: underline;
+  */
+}
+.navbar-default .navbar-nav >li >a:visited{
+  color: #fff;
+}
