@@ -43,14 +43,14 @@
   margin-bottom: 0px;
 
   color: white;
-  background-image: url('../images/pexels-photo-230872.jpeg');
+  background-image: url('../images/pexels-photo-230872.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
 .navbar{
   border-color: transparent;
-  background: transparent;
+  background: transparent;  color: white;
   background-color: transparent;
   box-shadow: none;
 }
